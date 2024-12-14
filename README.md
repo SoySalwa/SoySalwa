@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Salwa</h1>
-<h3 align="center">A passionate coding explorer with a knack for unraveling the mysteries of code and crafting digital wonders. 🚀 I'm thrilled to share my journey of learning and innovation, and I'm eager to collaborate on exciting projects that push the boundaries of what's possible.</h3>
+<h1 align="center">Hi 👋, I'm Yasell Gómez</h1>
+<p align="left">A passionate coding explorer with a knack for unraveling the mysteries of code and crafting digital wonders. 🚀 I'm thrilled to share my journey of learning and innovation, and I'm eager to collaborate on exciting projects that push the boundaries of what's possible.</p>
 
+All my knowledge is in the C++ programming language, but with a great ability to adapt to any other programming language.
+
+- I'm specialised in the creation of desktop dev and mobile with C++. 
+- C++ is my life. 😂
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">Feel free to reach out to me at <a href="mailto:zoldyckk54@gmail.com">zoldyckk54@gmail.com</a></p>
-
+<p align=left>My portafolio: Coming Soon.</p>
 <h3 align="left">Skills and a bit knowledges:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
