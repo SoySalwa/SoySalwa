@@ -9,7 +9,7 @@ All my knowledge is in the C++ programming language, but with a great ability to
 <h3 align="left">Connect with me:</h3>
 📧 <a style="text-decoration: none;" href="mailto:zoldyckk54@gmail.com">Contact me in Gmail</a>
 
-<p align=left>My portafolio: Coming Soon.</p>
+<p align=left><b>My portafolio:</b> <b>https://soysalwa.pages.dev </b></p>
 <h3 align="left">Skills and a bit knowledges:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
