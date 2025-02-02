@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yasell Gómez.</h1>
+<h1 align="center">Hi 👋, I'm Salwa.</h1>
 <p align="left">A passionate coding explorer with a knack for unraveling the mysteries of code and crafting digital wonders. 🚀 I'm thrilled to share my journey of learning and innovation, and I'm eager to collaborate on exciting projects that push the boundaries of what's possible.</p>
 
 All my knowledge is in the C++ programming language, but with a great ability to adapt to any other programming language.
